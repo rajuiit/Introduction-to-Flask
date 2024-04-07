@@ -12,13 +12,13 @@ This is a simple Flask application for practice purposes.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/flask-practice.git
+    git clone https://github.com/rajuiit/Introduction-to-Flask.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd flask-practice
+    cd Introduction-to-Flask
     ```
 
 3. Create and activate a virtual environment (optional but recommended on Mac):
@@ -36,8 +36,8 @@ This is a simple Flask application for practice purposes.
 
 ## Usage
 
-To run the Flask application, execute the following command:
+To run the Flask application, execute the following command: (must change your directory)
 
 ```bash
-python hello.py
+python filename
 flask --app hello run
