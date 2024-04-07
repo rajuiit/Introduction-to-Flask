@@ -21,7 +21,7 @@ This is a simple Flask application for practice purposes.
     cd Introduction-to-Flask
     ```
 
-3. Create and activate a virtual environment (optional but recommended on Mac):
+3. Create and activate a virtual environment on Mac (optional but recommended):
 
     ```bash
     python3 -m venv venv
