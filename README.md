@@ -4,7 +4,7 @@ This is a simple Flask application for practice purposes.
 
 ## Requirements
 
-- Python 3.6 or higher
+- We recommend using the latest version of Python. Flask supports Python 3.8 and newer.
 - Flask
 
 ## Installation
